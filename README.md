@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ericarthurrothman
+- 🌱 I’m currently learning gamedev and messing around with simple prototypes
+- 📫 Email: ericarthurrothman@gmail.com  |  Twitter: @teamasparagus
